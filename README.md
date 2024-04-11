@@ -30,6 +30,9 @@
   <a href="https://velog.io/@zenoo97/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
+  <a href="https://www.instagram.com/j._.h00n_/">
+    <img src="https://img.shields.io/badge/InstaGram-E4405F?style=for-the-badge&logo=InstaGram&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
