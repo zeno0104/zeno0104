@@ -1,3 +1,23 @@
+<h1 align ="center">Hi👋, I'm Jaehoon!🤗</h1>
+
+<p align="center">📺 Front Tech Stack 📺</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA_SCRIPT-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/REACT-0088CC?style=for-the-badge&logo=react&logoColor=white">
+</div>
+
+<p align="center">🛠 Tools 🛠</p>
+<p align="center">🌈 My SMS 🌈</p>
+<div align="center">
+  <a href="https://velog.io/@zenoo97/posts">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+  </a>
+</div>
+
 <div align="center">
 
 <h3>💡 My Most Used Languages 💡</h3>
