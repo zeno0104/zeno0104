@@ -1,9 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeno0104)]
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jeno0104)](https://solved.ac/{handle})
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeno0104&show_icons=true&theme=radical)
-
-             
 <!--
 **jeno0104/jeno0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
