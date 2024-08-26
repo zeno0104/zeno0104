@@ -53,7 +53,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeno0104)](https://solved.ac/{handle})
-<img src="http://mazandi.herokuapp.com/api?handle=jeno0104&theme=warm"/>
+
 
 </div>
 
