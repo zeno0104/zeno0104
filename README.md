@@ -50,10 +50,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeno0104&show_icons=true&theme=radical)
 
 
-<h3 align="center">💡 BackJoon 💡</h3>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeno0104)](https://solved.ac/{handle})
 
 
 </div>
