@@ -13,7 +13,11 @@
   <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB">
 </div>  
 
-
+### <p align="center">📕 Studying 📕</p>
+<div align = "center" >
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
+</div>
 
 <div align="center">
 <!--   <img src="https://img.shields.io/badge/REACT-0088CC?style=for-the-badge&logo=react&logoColor=white"> -->
@@ -23,6 +27,7 @@
 </div>
 
 ### <p align="center">🛠 Tools 🛠</p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
@@ -35,24 +40,7 @@
   <a href="https://velog.io/@zenoo97/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/j._.h00n_/">
-    <img src="https://img.shields.io/badge/InstaGram-E4405F?style=for-the-badge&logo=InstaGram&logoColor=white">
-  </a>
 </div>
-
-
-
-<!--
-**jeno0104/jeno0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align ="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeno0104">
+</div>
