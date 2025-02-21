@@ -11,14 +11,9 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
   <img src="https://img.shields.io/badge/Mobx-FF9955?style=for-the-badge&logo=Mobx&logoColor=white">
   <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB">
-</div>  
-
-### <p align="center">📕 Studying 📕</p>
-<div align = "center" >
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white">
-</div>
-
+</div>  
 <div align="center">
 <!--   <img src="https://img.shields.io/badge/REACT-0088CC?style=for-the-badge&logo=react&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> -->
