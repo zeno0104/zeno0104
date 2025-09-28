@@ -1,5 +1,10 @@
 
 <h1 align ="center">Hi👋, I'm Jaehoon!🤗</h1> 
+<div>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/zeno0104"/>
+</a>
+</div>
 
 ### <p>📺 Tech Stack 📺</p>
 
@@ -36,6 +41,8 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jeno0104">
 </div>
 <div>
+
+
 </div>
 
 ### <p>🙏 Experience 🙏</p>
