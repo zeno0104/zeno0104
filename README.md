@@ -1,7 +1,7 @@
 
 <h1 align ="center">Hi👋, I'm Jaehoon!🤗</h1> 
 
-### <p>📺 Tech Stack 📺</p>
+### <p>📺 Frontend 📺</p>
 
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -21,6 +21,17 @@
 <!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> -->
 <!--   ### <p align="center">📙 Studying 📙</p> -->
+</div>
+
+### <p>📺 Backend 📺</p>
+<div>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-1572B6?style=for-the-badge&logo=JAVA&logoColor=white">
+</div>
+
+### <p>📺 DB 📺</p>
+<div>
+  <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
 
 
